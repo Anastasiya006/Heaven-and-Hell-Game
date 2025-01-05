@@ -37,7 +37,7 @@ Before running the game, ensure your system meets the following requirements:
    
 3. **Clone the Repository**
    
-   Open a terminal/command prompt and run the following command to clone the game repository:  
+   Open a terminal/command prompt and run the following command to clone the repository:  
    ```bash
    git clone https://github.com/Anastasiya006/Heaven-and-Hell-Game.git
    cd Heaven-and-Hell-Game
