@@ -50,4 +50,5 @@ Before running the game, ensure your system meets the following requirements:
 
 ## Credits
 - **Game Design and Developement**: [Anastasiya006](https://github.com/Anastasiya006)
-- **Artwork**: [Anastasiya006](https://github.com/Anastasiya006)
+- **Sprites**: [Anastasiya006](https://github.com/Anastasiya006)
+- **Platformer Assets**: [Kenney (Assets)](https://kenney-assets.itch.io/1-bit-platformer-pack)
