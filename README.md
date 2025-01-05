@@ -12,7 +12,9 @@ A single player, 2D-platformer made with Python and pygame. The game’s objecti
 | **←  →**   | Move left or right to navigate            |
 
 ## Sprites
-All game sprites were hand-drawn by me.
-
 ![spritesheet](https://github.com/user-attachments/assets/62f0f523-67ab-4608-86d0-fda740ec5af0)
 
+## Credits
+* Game Design and Developement: [Anastasiya006]([URL](https://github.com/Anastasiya006))
+* Artwork: [Anastasiya006]([URL](https://github.com/Anastasiya006))
+* Music and Sound Effects: 
