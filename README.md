@@ -13,5 +13,6 @@ A single player, 2D-platformer made with Python and pygame. The game’s objecti
 
 ## Sprites
 All game sprites were hand-drawn by me.
+
 ![spritesheet](https://github.com/user-attachments/assets/62f0f523-67ab-4608-86d0-fda740ec5af0)
 
