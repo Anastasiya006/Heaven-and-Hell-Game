@@ -27,7 +27,7 @@ Before running the game, ensure your system meets the following requirements:
 
 1. **Install Python**
    
-   Download and install Python 3.7 or higher from the [official Python website](https://www.python.org/downloads/).
+   Download and install Python 3.7 or higher from the [official Python website](https://www.python.org/downloads/)
    
 2. **Install pygame**
    
