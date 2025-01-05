@@ -28,12 +28,14 @@ Before running the game, ensure your system meets the following requirements:
 1. **Install Python**
     
    Download and install Python 3.7 or higher from the [official Python website](https://www.python.org/downloads/).
+
    
 2. **Install pygame**
    
    Open a terminal/command prompt and run the following command to install pygame:
    ```bash
    pip install pygame
+
    
 3. **Clone the Repository**
     
@@ -41,6 +43,7 @@ Before running the game, ensure your system meets the following requirements:
    ```bash
    git clone https://github.com/Anastasiya006/Heaven-and-Hell-Game.git
    cd Heaven-and-Hell-Game
+
    
 4. **Run the Game**
    
