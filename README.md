@@ -15,6 +15,6 @@ A single player, 2D-platformer made with Python and pygame. The game’s objecti
 ![spritesheet](https://github.com/user-attachments/assets/62f0f523-67ab-4608-86d0-fda740ec5af0)
 
 ## Credits
-* Game Design and Developement: [Anastasiya006]([URL](https://github.com/Anastasiya006))
-* Artwork: [Anastasiya006]([URL](https://github.com/Anastasiya006))
-* Music and Sound Effects: 
+- **Game Design and Developement**: [Anastasiya006][https://github.com/Anastasiya006]
+- **Artwork**: [Anastasiya006][https://github.com/Anastasiya006]
+- **Music and Sound Effects**: 
